@@ -13,8 +13,7 @@ Basic playback controls: Play, Pause, Next, Previous.
 <li>Javascript</li>
 </ul>
 
-# Screenshots
-<img src="C:\Users\athar\Pictures\Screenshots\Screenshot (22).png">
+
 
 
 

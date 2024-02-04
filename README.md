@@ -8,11 +8,9 @@ Basic playback controls: Play, Pause, Next, Previous.
 
 # Technologies Used
 <ul type='circle'>
-<li>HTML
-<br>
-CSS
-<br>
-JavaScript</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
 </ul>
 
 

@@ -7,7 +7,7 @@ Display song details including title and artist.
 Basic playback controls: Play, Pause, Next, Previous.
 
 # Technologies Used
-<ul>
+<ul type='circle'>
 HTML
 <br>
 CSS
